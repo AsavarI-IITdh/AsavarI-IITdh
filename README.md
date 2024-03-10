@@ -1,5 +1,5 @@
 - 👋 Hello, we are hostel(Asavari) mates of IIT Dharwad
-- 
+  
 - Current members
     * Arvind Pandit (Computer vision & robotics)
     * Girish Kumar (Computer vision)
